@@ -1,0 +1,9 @@
+# Исключить папку src (исходный код)
+src/ -export-ignore
+
+# Исключить папку tests (тесты)
+tests/ -export-ignore
+
+# Исключить конкретные файлы
+.gitignore -export-ignore
+README.md -export-ignore
