@@ -6,6 +6,7 @@ Obsidian Launcher is a powerful and stylish Minecraft launcher designed for play
 - Sleek Interface: The launcher features a dark theme with Minecraft-style elements.
 - Support for All Versions: Choose and install releases, snapshots, beta, and alpha versions of Minecraft.
 - Fabric Integration: Built-in support for Fabric to install mods.
+- Forge Integration: Built-in support for Forge to install mods.
 - Memory Customization: Optimize game performance by adjusting the amount of RAM.
 - Loading Animation: A stylish loading animation makes the installation process more enjoyable.
 - Automatic Updates: The launcher automatically downloads and installs selected versions of the game.
@@ -28,6 +29,10 @@ Obsidian Launcher is a powerful and stylish Minecraft launcher designed for play
 4. Launch Status:
    - Displays "Launching Minecraft..." while the game is starting.
    - After the game closes, the status changes to "Minecraft closed".
+
+5. New design
+   - New redesigned launcher design
+   - Beautiful design for the launcher
 
 ---
 
