@@ -34,6 +34,10 @@ Obsidian Launcher is a powerful and stylish Minecraft launcher designed for play
    - New redesigned launcher design
    - Beautiful design for the launcher
 
+6. Boot File:
+   - A dedicated boot file for our launcher has been created
+   - It is pre-configured for seamless downloading and launching of the Obsidian Launcher
+
 ---
 
 ### Why Choose Obsidian Launcher?
@@ -57,7 +61,3 @@ Obsidian Launcher is a powerful and stylish Minecraft launcher designed for play
 3. Launch the Game:
    - After launching Minecraft, the "Launch" button changes to "Exit Game".
    - Click "Exit Game" to close the game.
-
----
-
-Obsidian Launcher — your perfect companion in the world of Minecraft! 🚀
