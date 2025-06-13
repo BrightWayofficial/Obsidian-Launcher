@@ -38,6 +38,12 @@ Obsidian Launcher is a powerful and stylish Minecraft launcher designed for play
    - A dedicated boot file for our launcher has been created
    - It is pre-configured for seamless downloading and launching of the Obsidian Launcher
 
+7. Launcher Website:
+   - The official website for Obsidian Launcher has been created.
+   - The site provides detailed information about the launcher, its features, and benefits.
+   - A news section is available with the latest updates and version changes.
+   - You can download the latest version of Obsidian Launcher directly from the website.
+
 ---
 
 ### Why Choose Obsidian Launcher?
