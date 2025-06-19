@@ -44,6 +44,9 @@ Obsidian Launcher is a powerful and stylish Minecraft launcher designed for play
    - A news section is available with the latest updates and version changes.
    - You can download the latest version of Obsidian Launcher directly from the website.
 
+8. Create versions:
+   - You can create custom versions in version creation
+
 ---
 
 ### Why Choose Obsidian Launcher?
