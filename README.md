@@ -51,7 +51,7 @@ Obsidian Launcher is a powerful and stylish Minecraft launcher designed for play
 
 ### Why Choose Obsidian Launcher?
 - Style and Functionality: Elegant design and powerful features.
-- Mod Support: Easily add mods with Fabric.
+- Mod Support: Easily add mods with Fabric/Forge.
 - Optimization: Adjust memory settings for weaker computers.
 - Openness and Flexibility: Full control over your gaming experience.
 
